@@ -1,0 +1,17 @@
+{
+  "suggest.noselect": false,
+  "npm.binPath": "~/.nvm/versions/node/v15.5.1/bin/node",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "scss",
+    "html",
+    "markdown",
+    "json",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "typescript.tsx",
+    "graphql"
+  ]
+}
